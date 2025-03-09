@@ -63,7 +63,6 @@ Projemiz, kültürel değerlerin modern teknolojilerle sürdürülebilirliğini 
 ---
 
 ## Teknolojiler  
-Bura doldurulacak
 
 ---
 
